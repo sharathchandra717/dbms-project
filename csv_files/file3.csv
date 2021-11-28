@@ -1,0 +1,13 @@
+Role_ID,Role_Type,Role_Description,Policy_id,Policy_name,Policy_Type
+R1,Student,Enrolled full time student,P1,Student_Read,Read
+R2,Proffesor,Fulltime Professor,P2,Professor_Read,Read
+R3,TA,Partime Teaching assistant,P3,TA_Read,Read
+R1,Student,Enrolled full time student,P4,Student_Write,Write
+R2,Proffesor,Fulltime Professor,P5,Professor_Write,Write
+R3,TA,Partime Teaching assistant,P6,TA_Write,Write
+R1,Student,Enrolled full time student,P7,Student_Post,Post
+R2,Proffesor,Fulltime Professor,P8,Professor_Post,Post
+R3,TA,Partime Teaching assistant,P9,TA_Post,Post
+R1,Student,Enrolled full time student,P10,Student_Submit,Submit
+R2,Proffesor,Fulltime Professor,P11,Professor_Submit,Submit
+R3,TA,Partime Teaching assistant,P12,TA_Submit,Submit

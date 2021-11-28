@@ -1,0 +1,14 @@
+User_Name,Password,First_Name,Last_Name,Gender,Age,Phone_Number,Bio,Time_Zone,Recent_Login_Date,Recent_Login_Device,Role_Id,Role_Type,Role_Description
+Mike_123,dhbebe213,Mike,Hesson,M,24,3093224352,Graduate Student,CST,2020-11-21,HP,1,Student,Enrolled full time student
+Mike_123,dhbebe213,Mike,Hesson,M,24,3093224352,Graduate Student,CST,2020-11-21,HP,3,TA,Enrolled full time student
+Hannah_345,dbvb9923,Hannah,Baker,F,23,2814588549,Psychology Enthusiast,CST,2020-11-22,MacOS,1,Student,Enrolled full time student
+Bob_321,wesgfh8we0r,Bob,Gerard,M,49,8543201884,Available 24X7,CST,2020-11-19,Oneplus,2,Professor,Fulltime Professor
+Bob_321,wesgfh8we0r,Bob,Gerard,M,49,8543201884,Available 24X7,CST,2020-11-19,Oneplus,1,Student,Professor who can view as student
+John_662,3wrbweyuc,John,Snow,M,25,2814442343,Honered for Everything,CST,2020-11-23,Thinkpad,1,Student,Enrolled full time student
+Lisa_321,xjeshiu34,Lisa,Melbourne,F,21,1573987620,Team Braves,CST,2020-11-20,HP,1,Student,Enrolled full time student
+Lisa_321,xjeshiu34,Lisa,Melbourne,F,21,1573987620,Team Braves,CST,2020-11-20,HP,3,TA,Enrolled full time student
+Marie_44,fweurh23,Marie,Robert,F,32,3094598454,Knowledge is divine,CST,2020-11-21,Dell,2,Professor,Fulltime Professor
+mravi77,fhdx733,Ravi,Mokkapati,M,23,9703845324,Student from India,IST,2020-11-25,MacOS,1,Student,Enrolled full time student
+Devon_143,dferij43,Devon,Neilson,M,38,2815854535,Mathematcian,CST,2020-11-20,Dell,2,Professor,Fulltime Professor
+Steve_55,feyufoh23,Steve,Rogers,M,23,3093219346,Coding Club Coordinator,CST,2020-11-19,HP,1,Student,Enrolled full time student
+Steve_55,feyufoh23,Steve,Rogers,M,23,3093219346,Coding Club Coordinator,CST,2020-11-19,HP,3,TA,Enrolled full time student
